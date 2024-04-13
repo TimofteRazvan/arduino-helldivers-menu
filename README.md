@@ -7,9 +7,13 @@ Unfortunately, the Arduino Uno does not have the core keyboard library, and ther
 
 <h3> Software used </h3>
 IMAGE TO BITMAP CONVERTER: https://javl.github.io/image2cpp/
+
 ONLINE PHOTO EDITOR: https://www.photopea.com/
+
 SYSTEM SIMULATOR: https://wokwi.com/
+
 IDE: https://www.arduino.cc/en/software
+
 
 <h3> Hardware used </h3>
 1x Arduino Uno
