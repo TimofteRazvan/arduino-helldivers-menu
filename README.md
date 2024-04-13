@@ -1,7 +1,7 @@
 # arduino-helldivers-menu
 <h3> Video </h3>
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{8Eudu-0wk18})](https://youtu.be/{8Eudu-0wk18})
+https://youtu.be/8Eudu-0wk18
 
 <h3> Description </h3>
 The application is meant to show the user an OLED menu depicting various Stratagems seen in Helldivers 2. The user can scroll through the options via buttons. The menu is meant to be reminiscent of the menu of the Flipper 0. Future functionalities should include the ability to select a stratagem, after which a macro is run (a combination of up-down-left-right keys) for ease of activating stratagems in the game, which requires the user to quickly input a specific combination of the aforementioned keys (for example, UP-RIGHT-DOWN-DOWN-DOWN).
