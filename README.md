@@ -6,6 +6,7 @@ The application is meant to show the user an OLED menu depicting various Stratag
 Unfortunately, the Arduino Uno does not have the core keyboard library, and therefore cannot act as a keyboard for the system. This makes the goal impossible with the Arduino Uno without giving the Uno the required HID firmware, which is done with specific cables that I currently do not have.
 
 <h3> Software used </h3>
+
 IMAGE TO BITMAP CONVERTER: https://javl.github.io/image2cpp/
 
 ONLINE PHOTO EDITOR: https://www.photopea.com/
@@ -16,11 +17,17 @@ IDE: https://www.arduino.cc/en/software
 
 
 <h3> Hardware used </h3>
+
 1x Arduino Uno
+
 1x Screen OLED 0.91” IC:SSD1306 128x32
+
 1x Breadboard 400
+
 9x Dupont Wires
+
 1x USB A/B Cable
+
 4x Buttons
 
 <h3> Thanks to </h3>
