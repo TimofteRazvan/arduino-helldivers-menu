@@ -2,6 +2,8 @@
 <h3> Description </h3>
 The application is meant to show the user an OLED menu depicting various Stratagems seen in Helldivers 2. The user can scroll through the options via buttons. The menu is meant to be reminiscent of the menu of the Flipper 0. Future functionalities should include the ability to select a stratagem, after which a macro is run (a combination of up-down-left-right keys) for ease of activating stratagems in the game, which requires the user to quickly input a specific combination of the aforementioned keys (for example, UP-RIGHT-DOWN-DOWN-DOWN).
 
+<img src = https://github.com/TimofteRazvan/arduino-helldivers-menu/blob/main/Capture.PNG\>
+
 <h3> Limitations </h3>
 Unfortunately, the Arduino Uno does not have the core keyboard library, and therefore cannot act as a keyboard for the system. This makes the goal impossible with the Arduino Uno without giving the Uno the required HID firmware, which is done with specific cables that I currently do not have.
 
